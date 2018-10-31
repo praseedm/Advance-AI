@@ -1,0 +1,22 @@
+Set1
+=====
+1. Write a function to check whether a given(as param)number is odd or even
+2. Write a function to find the gretest number among three given numbers.
+3. Write scipts for Problems 1 and 2.(without using function)
+4. Write scipts for Problems 1 and 2.(using function without any parameter) 
+5. Write scipts for Problems 1 and 2.(using function with parameters)
+6. Write a script to read a name(say Raju) and mark(say 70) and  print 
+    the message 'Raju scored 70 of 100' on to the screen.(using only input)
+7. Solve problem 6 using raw_input.
+Set2
+=====
+
+1. Write a script to print numbers in descending order starting 
+	from a given input(do not use a loop).
+2. Do 1 using while loop.
+3. Write a script to print factorial of a number (without using loop).
+4. Do 3 using while loop
+5. Write a script to check whether an input number is prime or not.
+   (use while loop without else)
+
+  

@@ -1,0 +1,40 @@
+
+1. Write a script to to perform division as per the following.
+
+	a. Get two numbers for divident and divisor values. 
+	b. Define a function div_f with one required parameter namely divident and one default param(with value 2)namely divisor.
+	c. The function should return Quotient and remainder.
+	d. call the function store the return value in a suitable variable
+	e. print the variable where the retun value is stored.
+
+
+
+2. Write a script to to perform division as per the following.
+
+	a. Get two numbers for divident and divisor values.
+	b. Define a function div_f with two keyword parameters- namely divident and divisor 
+	c. The function should return Quotient and remainder.
+	d. call the function store the return value in a suitable variable
+	e. print the variable where the retun value is stored.
+
+3. Write a menu based program that finds the value of a controll variable 'con' based on the following equation
+		
+		con = a + 10bc - 5d / e.  
+
+		The variables a,b,c,d and e are stored in a separate file (module).
+		The values of these varables may be modified in the module file while the program is running.
+		The main program should terminate upon receiving 0 as input.
+		
+	options are,
+			
+			1. Initialize
+			2. Show 
+			3. Reload
+			0. Exit
+
+		If option is 1, the module should be imported.
+		If 2, the value of control variable should be displayed.
+		If 3, the module should be reloaded.
+
+
+ 

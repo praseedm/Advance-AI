@@ -1,0 +1,19 @@
+
+
+1. Write a script to reverse a given sentence without reversing words.
+     
+2. Write a script to print the no. of palindrome words in a given sentence.
+
+3. Write a script to count letters in a given string(using dict).
+
+4. Write a script to count words in a given sentence (using dict).
+
+
+
+ 
+
+
+ 
+
+
+ 

@@ -1,0 +1,11 @@
+
+1. write a program to print the length of a string (without using len() function) using for loop.
+
+2. Write a program to reverse a given string.
+
+3. Write a program to print the no. of occurences of a given character in a given string.
+
+4. Write a program to check for at least two vowels in a given string. 
+
+
+ 
