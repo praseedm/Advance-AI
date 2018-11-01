@@ -1,0 +1,25 @@
+1. Write a  program to create a file to store multiplication table for a number as per the following . 
+	Get the number from user.
+	Using list comprehension create a list  to contain the products.
+	take each item from the list and write the same to a file in the following format
+		
+		1 X <input no> = <first item from list> 
+		2 X <input no> = <second item from list> 		
+		
+		and so on.
+   
+
+2.Modify the above (Q.No.1) to accept filename and number via commandline arguments.
+  (The script should not contain more than 3 lines including #! and import )
+	syntax for giving the command is ,
+    		 scriptname filename number.
+    The multiplication table for the number should  be stored inside filename. 
+
+
+ (hint: to get a formatted string you may use like,
+  >>> x=10
+  >>> y=20
+  >>> s1='value of x is %d and value of y is %d'%(x,y)
+  >>> print s1
+      value of x is 10 and value of y is 20
+  end of hint)	
