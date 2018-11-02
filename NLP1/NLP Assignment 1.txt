@@ -1,0 +1,8 @@
+1. Define a paragraph in a program . 
+	i. Display the sentences in the paragraph. 
+	ii. Display the words in the paragraph.
+	iii. Display the noun phrases in the paragraph.
+2. Accept a string from the user. 
+	i. Attempt to correct the spellings of the words.
+	ii. Translate the content into French (code fr)
+
