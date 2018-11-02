@@ -1,0 +1,22 @@
+1.Write a program to store and display employee details(name empno salary) using class concept.
+	(There should be separate methods for store and display)  
+
+2.Modify the above program to contain a constructor for getting and storing the details.
+      (There should be a separate method for displaying the details)  
+
+
+3.Write a menu based program to manage BankAccounts using class concept(develop your own logic)
+ with the following features.
+  a. account number - data(instance)
+  b. account balance - data(instance)
+  c. account type -data(instance)
+  d. number of accounts-data(class)
+  e. account holder name-data(instance)
+  f. account holder address-data(instance)
+  g. methods for deposit,withdraw,setting and getting account & account holder details.
+   (Note: you may create a list of bank account instances OR a dict of bank account instances with 'account no' as key in your program )
+ 
+   	
+ 
+
+	
