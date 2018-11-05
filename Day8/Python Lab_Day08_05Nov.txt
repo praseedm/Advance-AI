@@ -1,0 +1,12 @@
+1.Write a program to create different(two) categories of employees.
+
+	1.1 Create a base class Employee to store name,empno,basicpay
+	1.2 Create a derived (from Employee) class Scientist to store Technical allowance and Category (additionally).
+	1.3 Create another derived (from Employee) class Officer to store Grade and department (additionally) 
+	1.4 Create some instances of Scientists and Officers and display the details(by calling respective methods)
+
+
+2.Modify the above program to add str method such that,
+	str(scentist instance) should give  Scientis <name> with id <empno> has a salary of <Total salary> and
+	str(Officerinstance) should give  Officer <name> with id <empno> has a salary of <Total salary>   
+
