@@ -1,0 +1,7 @@
+﻿Distance h min sec roadORtrack dayMonth Year Place
+1 0.1 0 0 9.77 track 14Jun 2005 Athens
+2 0.15 0 0 14.8 track 22May 1983 Cassino
+3 0.2 0 0 19.32 track 1Aug 1996 Atlanta
+4 0.3 0 0 30.85 track 24Mar 2000 Pretoria
+5 0.4 0 0 43.18 track 26Aug 1999 Seville
+
