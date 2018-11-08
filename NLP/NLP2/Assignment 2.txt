@@ -1,0 +1,8 @@
+1. Accept a singular noun and display the plural of the noun.
+2. Accept a plural noun and the display the singular noun.
+3. Accept a sentence and display the parts of speech.
+4. Create a file and add some contents to it. Write a program to create a summary of the file contents. The contents may include
+	i)  No of sentences
+	ii) No of words
+	iii)Main words
+	iv) Summary of important sentences
