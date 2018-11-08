@@ -1,0 +1,35 @@
+
+1. Write a program to create and show different categories of employees having the following attributes.
+     
+        3.1 Employees are of two main categories Engineers and Officers.
+        3.2 Each employee has a name,no,basic pay,da(30% of basic),hra(10% of basic) and sp.allowance.
+	3.3 sp.allowance for engineers is 20% and 10% for Officers.
+	3.4 Engineers are grouped into Junior Engrs and Senior Engrs.
+        3.5 Junior Engrs will get an additional 500 Rupees with their hra.
+        3.6 Senior Engrs will get an additional 1000 Rupees with their hra.
+   	
+	(hint:Engineer and Officer should inherit from Employee,JuniorEngr and SeniorEngr should inherit from Engineer,
+          Instantiation of Employee and Engineer should be denied)
+2. Modify the vector program(PythonLab_Day09_07Nov-QNo.01) to add equality checking (eg. v1==v2 should return True or False)
+        (v1 and v2 are vector class instances)
+
+3.Write a program(of your own choice) to show multiple inheritance. 
+
+4.Write a program(of your own choice) to show multilevel inheritance.
+
+5. Redo the pronblem PythonLab_Day05_31Oct-QNo.03  by capturing and processing the exception(ZeroDivisionError) 
+   when the value of e is made zero. 
+
+6. Write a program to print all the exception classes.
+	the output should be as follows,
+	BaseClass
+	-subclass1
+	--Subclass11
+	--SubClass12
+	---SubClass121
+	----SubClass1211
+	---SubClass122
+	-Subclass2
+	--SubClass21	
+	Here SubClass12 is the base class for SubClass121  
+        
