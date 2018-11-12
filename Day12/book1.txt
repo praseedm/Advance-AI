@@ -1,0 +1,8 @@
+1.The book Think Python belongs to python category and is written by python.
+    The book is published in the year 2015 with a price of 300.
+2.The book Def Guide belongs to hadoop category and is written by hadoop.
+    The book is published in the year 2015 with a price of 900.
+3.The book Let us cpp belongs to CPP category and is written by CPP.
+    The book is published in the year 2010 with a price of 349.
+4.The book Design of Unix OS belongs to unix category and is written by unix.
+    The book is published in the year 2003 with a price of 839.

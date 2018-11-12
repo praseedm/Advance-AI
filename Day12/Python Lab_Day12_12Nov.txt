@@ -1,0 +1,16 @@
+use dom parsing to solve the following:
+
+I.Create a text file named book1  and store the values from the given xml file(book.xml).
+   Each line in the text file should have the following format.
+
+    1.The book Think Python belongs to python category and is written by AB downy.
+      This book is published in the year 2015 with a price of 300. 
+
+    2.The book Def Guide belongs to hadoop category and is written by Tom White.
+      This book is published in the year 2015 with a price of 900. 
+	.
+	.
+	.
+    
+II.Using DOM tree traversal create a generic xml parser.
+	(test your script for xml files in common/XML_SAMPLE_FILEs )
