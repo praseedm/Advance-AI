@@ -1,0 +1,18 @@
+  
+1. Create a csv file emp.csv that contains the following data,
+    eno,ename,edesig,esalary
+    101,Anil,scientist,50000
+    102,Mary,scieltist,55000
+    103,Raju,engineer,60000
+    104,Ravi,officer,40000
+   write a script to create an xml file from the above data.
+   (employee can be made as root node)
+
+2. Write a script to create a table in mysql database using the data of emp.csv
+
+   (table names can be chosen as emp_ai01,emp_ai02 etc for users AI01,AI02 etc)
+	
+	server- localhost / 127.0.0.1
+	username -ai
+	password -ai
+	database -ai	 
