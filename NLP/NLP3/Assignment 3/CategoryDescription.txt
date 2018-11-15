@@ -1,0 +1,10 @@
+Bacterial Infections and Mycoses                      C01
+Virus Diseases                                        C02
+Parasitic Diseases                                    C03
+Neoplasms                                             C04
+Musculoskeletal Diseases                              C05
+Digestive System Diseases                             C06
+Stomatognathic Diseases                               C07
+Respiratory Tract Diseases                            C08
+Otorhinolaryngologic Diseases                         C09
+Nervous System Diseases                               C10

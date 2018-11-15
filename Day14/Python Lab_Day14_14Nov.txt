@@ -1,0 +1,9 @@
+Copy emp.csv from common/python_exercises directory
+Write  python scripts(use re module) to do the following
+1.Write records that correspond to scientists to another file named sci.csv
+2.Write records with single letter initials at the begining of the name to ini1.csv  
+3.Write records with single letter initials anywhere in the name to ini2.csv
+4.Write names and phone numbers to empphno.csv,remove extra characters from phno field.
+5.write records with id greater than 200 to anotherfile named emp2.csv. 
+ 
+ 
