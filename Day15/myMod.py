@@ -1,0 +1,2 @@
+def IsInteger(s):
+	return  
