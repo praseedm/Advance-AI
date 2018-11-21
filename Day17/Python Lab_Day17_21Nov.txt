@@ -1,0 +1,12 @@
+
+	1. open a python interpreter
+	2. import numpy
+	3. create a 1D array having 5 elements (integers) using array method
+	4. do 3 using arange  	 
+	5. create a 3 dimensional array containing 1s(integers), there should be 40 members
+	6. print the total number of elements (size) for the above array
+	7. Check and explain the difference between array and asarray
+	8. Create an identity mtrix of a given specification.
+	9. Create an array containing 0s inheriting shape from the array created in Q.No.5
+	10.Print the size,shape,dimensions and datatype of all the above arrays. 
+	
