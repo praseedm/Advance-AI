@@ -1,0 +1,39 @@
+Open python interpreter and do the following.       
+
+	1.Create an integer(32bit) array of shape 2,3
+	
+	2.Create another array using the values from the above array (Qno.1) but with a type of float64
+ 
+	3.Create another array using the values from the above array (Qno.1) but with a type of int64
+	
+	4.Create another array using the values from the above array (Qno.1) but with a type of str
+	
+	5.Create another array using the values from the above array (Qno.4) but with a type of str
+
+ 
+	6. create a 2 dimensional array conating 4 rows and 3 columns each and do different slicing operations and note your findings
+		 	-> select first row  
+			-> select third row
+			-> select second column
+		   	-> select first two elements of second and third rows
+			-> select last element of each row
+				etc.
+
+
+	7.Create a numpy array(with a suitable shape) to store numbers from 11 to 50.
+		using boolean indexing, replace all the numbers that are multiples of 5 with -1.
+
+
+	8.Write a function to return diagonal elements of an array(NxN) as an array.
+
+	9.Write a function to return the number of occurences of a given element in a numpy array.
+
+	10.Modify the above function (Q.No.8) to accept array of any shape and to return the 
+ 	    diagonal elements of the highest possible NxN array constructed from the given array. 
+		    
+
+
+
+ 
+
+  	 
