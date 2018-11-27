@@ -1,0 +1,11 @@
+1 Create a numpy structured array using the emp.csv file available in common folder.
+1.1 display all the records.
+1.2 display names of officers.
+1.3 display all the scientists records.
+1.4 display the total salary.
+1.5 display average salary of engineers.
+1.6 display employees in the ascending order of salary.
+1.7 display employees in the ascending order of designation and then salary.
+1.8 display the lowest salary for scientist designation.
+1.9 display records of employees who are scientists and are drawing the lowest salary(without using sort).
+ 
