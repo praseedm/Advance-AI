@@ -1,0 +1,27 @@
+A.Write a menu based python script to create a numpy structured array using the given(common folder) emp.csv file
+    with the following options,
+
+	a)initialize b)add new record c)delete a record d)Display details by name e)Display summary f)Save All g)Exit 
+
+        a-Load data from emp.csv to numpy array
+        b-Get details from user and append it to the existing numpy array
+	c-Remove an employee record by receiving employee number
+        d-Display an employee record by receiving ename or employee number
+        e-Display total number of emplyees and total salary
+        f-Replace emp.csv with the modified array
+        g-Quit the program   
+ 
+B.Open python interpreter/ipython and do the following.
+	1.import pandas library
+	2.print the verion of pandas
+	3.create a series object having 5 elements
+	4.print all the elements
+	5.print first two elements
+	6.create another series object by supplying string labels as index
+	7.print all the elements/print individual elements
+	8.create a dict object and then  a series object from that dictionary  
+	9.create another dict obj with some common keys (Q.No.8) and then a series obj
+	10.add the two Series objs and print the result.
+	 
+
+  
