@@ -1,0 +1,5 @@
+1. Attempt at a model that finds out the most important words in a given document using
+i) term frequency
+ii) inverse document frequency.
+
+You may assume the document to be a string.
