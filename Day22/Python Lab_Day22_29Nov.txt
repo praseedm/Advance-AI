@@ -1,0 +1,24 @@
+
+A.Open python interpreter/ipython and do the following.
+	1.import pandas library
+	2.create a dataframe obj from a dict of lists of your own choice(other than population) 
+	3.Add another column on the above object and insert values.  
+	4.create a dataframe obj from a series obj of your own choice.
+	5.create a dataframe obj from the above series obj(Qno.4) after assigning a value for
+		 name attribute.
+	6.create a dataframe object from a numpy 2D array by giving values for columns and index 
+		of your own choice. 
+	7.create a nested dictionary to store employee details like empno,empname and salary.
+	  create a dataframe from this dict.
+	8.create a series object to contain designations of the above employees, assign 'desig' as 
+		the name to this series object.
+	9.Add the above series object to the dataframe object and the column name should be the same 
+		as series name.
+	10.Create two series objects with
+		values (1,2 ... 6) and (11,22 ... 66),  
+		indices (a,b,c,d,e,f) and (d,e,f,x,y,z) respectively.
+		Add the two series objects, the result should contain 9 nonzero values.	
+		(use reindex)
+ 
+
+  
