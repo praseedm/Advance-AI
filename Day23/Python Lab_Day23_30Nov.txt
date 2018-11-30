@@ -1,0 +1,27 @@
+
+Open python interpreter/ipython and do the following.
+
+	0.import pandas 
+	1.Create a (4,4)2D array  consisting of integers.
+	2.Create a masked array from the above array by making numbers which are divisible by 3 as invalid values.
+	3.Create a dataframe from the above masked array.
+	4.Create a series of your own choice and do reindexing by exploring ffill,bfill,nearest etc
+	5.Create a Dataframe object of your own choice and do reindexing.
+
+	6.Create a (4,4)2D array  consisting of integers.
+	7.create a dataframe object from the above array by making c1,c2,c3,c4 as column indices and r1,r2,r3,r4 as row indices.
+		2.1 Using integer based indexing print the very first element(row 0, column 0) as a scalar,as a series,and as a dataframe.
+		2.2 do 2.1 using label based indexing
+		2.3 Print last two rows and columns
+	
+	8.Create another (4,4)2D array  consisting of integers, with c1,c2,c5,c6 as column indices and r3,r4,r5,r6 as row indices
+		Create a dataframe from this array and do the following,
+		a) add the two dataframes(QNo.7) using '+' operator,withoou any NaN in the result
+		b) add the two dataframes using 'add' method,withoou any NaN in the result
+	9.Create DataFrame obj(shape 3,4) and from that create two Series objs(one for axis 0,other for axis 1)
+		perform subtraction operation for both cases(along the two axes)
+ 
+
+ 
+
+  
