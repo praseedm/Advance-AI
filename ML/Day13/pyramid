@@ -1,0 +1,7 @@
+import cv2 as cv
+import numpy as np
+A=cv.imread('apple.jpg')
+for i in range(4):
+	A=cv.pyrDown(A)
+	cv.imshow('d1',A)
+	cv.waitKey(0)
