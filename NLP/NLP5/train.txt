@@ -1,0 +1,23 @@
+washing_machine,  Easy to use
+washing_machine,  Joint families
+washing_machine,  Commercial use
+washing_machine,  washing clothes
+Bike, Highway Riding
+Bike, High performance
+Bike, High Speed
+Mobile, Advanced
+Mobile, Latest phones
+Mobile, Great features
+Mobile, High end
+Mobile, Rear camera
+Mobile, Front camera
+kindle,audio books
+kindle,surf the net
+kindle,Access twitter
+kindle,Access facebook
+kindle,Wi-Fi
+kindle,check emails
+kindle,Browse net
+TV,Normal Cable Content
+TV,Better picture quality
+TV,want to play games
