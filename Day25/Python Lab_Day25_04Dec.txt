@@ -1,0 +1,17 @@
+
+Open python interpreter/ipython and do the following.
+
+	0.import pandas 
+
+	1.Using the emp.csv file available in common folder,create a data frame object named ef1.
+	2.Remove all the non digit characters from ephno column and store the new data in ef2. 
+	3.Write the three columns ename,edesig and esalary to the excel file empx.xlsx with sheet name as salary
+	4.Write the two columns ename and  ephno to the same excel file empx.xlsx with sheet name as phone  
+	5.In the data frame ef2 make edesig and eno as row index & store the new data in ef3
+	6.In ef3, sort the index edesig and store the result in ef4  
+	6.1.Using ef4, display all the scientists records.
+	6.2.Display average salary of engineers.
+	6.3.Display the lowest salary for scientist designation.
+ 
+
+  
