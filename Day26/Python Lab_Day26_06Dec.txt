@@ -1,0 +1,26 @@
+ 
+ 1. Create a mysql table ai_nn_emp to contain empno,name,deptcode,desig,salary and insert some records(10)
+
+ 2. Create another table ai_nn_dept to contain dept_no(values match with deptcode of emp ),dept_name,dept_location and insert some records.
+	(nn must be 01,02,03 etc. i.e. as per your username)
+ 3. Open ipython and import the necessary modules for data analysis
+
+ 4. load data from ai_nn_emp and ai_nn_dep into different dataframes 
+
+ 5. Print empno,name,deptname,salary and store the same to another dataframe in the ascending order of salary column.
+
+ 6. Write the above dataframe (after step5) into another table in mysql named ai_nn_emp_dept.
+
+
+   (try 'mysql://ai:ai@127.0.0.1:3306/ai' as the parameter for create_engine of sqlalchemy)
+         (dbms://user:password@hostname:portnumber/database)
+
+7.From the given csv files(items.csv and sales.csv in common/Python_Exercises folder) create two dataframe objects- idf1 and sdf1
+
+8.Fill stock of Mobile phone with average stock. 
+
+9.Using idf1 and sdf1 print item name, region and sales quantity and store the same in a new dataframe.
+
+10.Create two dataframes by applying pivot on the above dataframe with region/item name as index/column.  
+
+
