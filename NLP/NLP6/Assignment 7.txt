@@ -1,0 +1,6 @@
+1. Take a sentence as input. Display  the Subjectivity and the Polarity of the statement.
+2. If the subjectivity is 0.0 display "It is a Fact"
+    If the subjectivity is not 0 , if the polarity lies between 0 and 1 display "Positive", if the polarity lies between -1 and 0 display "Negative", if the polarity is equal to 0 display "Neutral".
+3. Take tweets from FIFACom or one of your choice and display 10 tweets.
+4. Modify the above program and Classify if each tweet is Positive, Negative , Neutral.
+5. Modify the above program and give a count of Positive , Negative and Neutral Tweets
