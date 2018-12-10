@@ -1,0 +1,16 @@
+(hint: use pandas groupby)
+1. Import the necessary libraries
+
+2. Import the dataset(drinks.csv) from common/Python_Exercise folder.
+
+3. Assign it to a variable called drinks.
+
+4. Print the continent that drinks more beer on average?
+
+5. For each continent print the statistics(count,mean,std etc.) for wine consumption.
+
+6. Print the mean alcoohol consumption per continent for every column
+
+7. Print the median alcoohol consumption per continent for every column
+
+8. Print the mean, min and max values for spirit consumption.
