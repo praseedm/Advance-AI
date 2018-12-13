@@ -1,0 +1,4 @@
+1. Create a few sentences . Find the frequency count of the words in the vocabulary.
+2. Cluster the words in the sentences  based on the count.
+3. Modify the program to cluster sentences based on cosine similarity.
+4. Visualise the results.
