@@ -1,0 +1,47 @@
+ 
+1. Analyse and Execute all the given sample programs(Common/Python_Exercises/MPL_Samples2).
+
+2. Show partywise seat share for following results of the Assembly Elections 2018
+in a piechart.Party with highest percentage should be shown as detached (slightly). 
+
+Madhya Pradesh	
+	INC - Win (114)
+        BJP - Win (15)
+        Independent - Win (4)
+        Others - Win (3)	
+Rajasthan	
+	INC - Win (99)
+	BJP- Win (73)
+	Independent- Win (3)
+	Others- Win (14)
+Chhattisgarh	
+	INC- Win (68)
+	BJP- Win (15)
+	BSP+- Win (9)
+	Others- Win (7)	
+Telangana	
+	TRS- Win (88)
+	INC- Win (19)
+	BJP- Win (1)
+	Others- Win (11)	
+Mizoram	
+	MNF- Win (26)
+	INC- Win (5)
+	BJP- Win (1)
+	Others- Win (8)		
+		
+
+3. Using the following data, draw a bar chart to show monthwise High/Low temperature in Kerala state.
+	Months should be in X axis. There should be two bars for each month, one for High and the other for Low. 
+
+	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec
+High°C	32	32	33	33	32	30	30	30	30	30	31	31
+
+Low°C	23	23	24	25	25	24	24	24	24	24	23	23
+
+4. Draw a horizontal bar chart for the above problem.
+
+
+
+	 	
+  

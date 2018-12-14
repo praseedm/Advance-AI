@@ -1,0 +1,2 @@
+1. Using the Taxi environment in Open AI , reset the environments and display some states  of your choice.
+2. Starting with a state of your choice, manualy pickup a passenger and drop the passenger at his desired location.
