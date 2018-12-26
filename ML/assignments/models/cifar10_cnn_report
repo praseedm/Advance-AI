@@ -1,0 +1,23 @@
+Train on 50000 samples, validate on 10000 samples
+Epoch 1/5
+50000/50000 [==============================] - 353s 7ms/step - loss: 1.4026 - acc: 0.4923 - val_loss: 1.1539 - val_acc: 0.5988
+
+Epoch 00001: val_acc improved from -inf to 0.59880, saving model to ./models/cifar10-cnn-best.hdf5
+Epoch 2/5
+50000/50000 [==============================] - 365s 7ms/step - loss: 1.2564 - acc: 0.5515 - val_loss: 1.0795 - val_acc: 0.6138
+
+Epoch 00002: val_acc improved from 0.59880 to 0.61380, saving model to ./models/cifar10-cnn-best.hdf5
+Epoch 3/5
+50000/50000 [==============================] - 280s 6ms/step - loss: 1.1716 - acc: 0.5852 - val_loss: 0.9831 - val_acc: 0.6557
+
+Epoch 00003: val_acc improved from 0.61380 to 0.65570, saving model to ./models/cifar10-cnn-best.hdf5
+Epoch 4/5
+50000/50000 [==============================] - 246s 5ms/step - loss: 1.0956 - acc: 0.6109 - val_loss: 0.9603 - val_acc: 0.6628
+
+Epoch 00004: val_acc improved from 0.65570 to 0.66280, saving model to ./models/cifar10-cnn-best.hdf5
+Epoch 5/5
+50000/50000 [==============================] - 219s 4ms/step - loss: 1.0488 - acc: 0.6275 - val_loss: 0.9318 - val_acc: 0.6771
+
+Epoch 00005: val_acc improved from 0.66280 to 0.67710, saving model to ./models/cifar10-cnn-best.hdf5
+('Test loss:', 0.9317553981781006)
+('Test accuracy:', 0.67710000000000004)
