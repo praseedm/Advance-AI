@@ -1,0 +1,20 @@
+1. In the folder Assignment 4 , there are Categories and the Descriptions in the file CategoryDescription.txt. Also there are disease abstracts in the folders c01- c10.
+2. Design a model to train data based on this and find the category of the abstract given below:
+--------------------------------
+External fixation for type III open tibial fractures.
+ An analysis of 51 type III open tibial fractures treated by external skeletal fixation is presented.
+ The fractures are subdivided according to the classification of Gustilo, Mendoza and Williams (1984) into types IIIa, IIIb and IIIc.
+ The different prognoses of these fracture subtypes is examined.
+ The use of the Hoffmann and Hughes external fixators in the management of type III open tibial fractures is presented and it is suggested that the prognosis is independent of the type of fixator used.
+----------------------------------------------------------------
+Possible role of leukotrienes in gastritis associated with Campylobacter pylori.
+ This study was done to evaluate the role of leukotrienes (LTs) in gastritis associated with Campylobacter pylori.
+ Biopsy specimens of gastric mucosa were obtained endoscopically from 18 patients with nonulcer dyspepsia for bacteriological and histological examination and extraction of LTs.
+ There was correlation between the LTB4 level in the mucosa and the degree of gastritis evaluated histologically.
+ The level was higher when infiltration of neutrophils in the gastric mucosa was more extensive.
+ The LTB4 level in mucosa infected with C.
+ pylori was higher than that in noninfected mucosa.
+ These findings suggest that endogenous LTs may be related to the pathogenesis of gastritis associated with C.
+ pylori.
+---------------------------------------------------------------------------------------
+3. You may first train the model with 2 abstracts from  each category and then proceed to the full data.
