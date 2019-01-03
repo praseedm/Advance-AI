@@ -1,2 +1,2 @@
-# sw800-python
-AI python programing
+# ML, DL, NLP, Python
+Advance AI programing 
